@@ -230,7 +230,7 @@ function HyperCube({ position = [0,0,0], sv = [1,1,1], rt, display}){
     </QHtml>
     <QHtml points={[mappedPoints[9], mappedPoints[1], mappedPoints[3], mappedPoints[11]]} rt={rt} display={display}>
       <div style={{ width: "100%", height: "100%", background: "lightskyblue", padding: "50px", color: "black", borderRadius: "75px", display: "flex", alignItems: "center", textAlign: "center"}}>
-        <p style={{fontSize: "150px"}}>Target Uni: Cambridge CS</p>
+        <p style={{fontSize: "150px"}}>Target Course: CS</p>
       </div>
     </QHtml>
   </group>
